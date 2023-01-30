@@ -12,7 +12,7 @@
 				echo 'Site: https://github.com/JuliaOliFranco<br>';
 				echo 'Instagram: https://www.instagram.com/juuh__olvr/<br>';
 				echo 'YouTube: youtube.com/BoraParaPratica<br>'; 
-                		echo '<img src="/Sra.-Cabeça-de-Batata-Toy-Story-PNG.png" alt="sra. cabeca de batata">';
+                		echo '<img src="/Sra.-Cabeça-de-Batata-Toy-Story-PNG.png" alt="">';
 			?>
 		</body>
 	</html>
