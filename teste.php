@@ -11,7 +11,8 @@
 				echo 'Linkedin: https://www.linkedin.com/in/julia-oliveira-franco-164534238/<br>';
 				echo 'Site: https://github.com/JuliaOliFranco<br>';
 				echo 'Instagram: https://www.instagram.com/juuh__olvr/<br>';
-				echo 'YouTube: youtube.com/BoraParaPratica<br>';
+				echo 'YouTube: youtube.com/BoraParaPratica<br>'; 
+               			echo '<img src="/2cb34d287116284a50c6676cf5360b56.jpg" alt="boo e sully">';
 			?>
 		</body>
 	</html>
